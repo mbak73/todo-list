@@ -2,7 +2,7 @@
 
 A simple app to manage your daily tasks.
 
-It uses HTMP5 and CSS3.
+It uses HTML5 and CSS3.
 
 
 
